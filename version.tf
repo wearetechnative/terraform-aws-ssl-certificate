@@ -6,7 +6,7 @@ terraform {
       source  = "hashicorp/aws"
       version = ">=4.21.0"
 
-      configuration_aliases = [ aws.acm_certificate_region ]
+      configuration_aliases = [aws.acm_certificate_region]
     }
   }
 }
