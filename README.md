@@ -1,4 +1,4 @@
-# Terraform AWS SSL Certificate ![](https://img.shields.io/github/workflow/status/TechNative-B-V/terraform-aws-module-name/tflint.yaml?style=plastic)
+# Terraform AWS SSL Certificate ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-ssl-certificate/lint.yaml?branch=main&style=plastic&label=lint) ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-ssl-certificate/security-scan.yaml?branch=main&style=plastic&label=security)
 
 <!-- SHIELDS -->
 
